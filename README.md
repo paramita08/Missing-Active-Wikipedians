@@ -9,7 +9,7 @@ Specifically, the sustained and prudent contributions by the experienced prolifi
 The paper can be accessed here - ```TODO-ADD PAPER LINK```
 
 ## List of Active and Missing Editors
-As mentioned in our work we have collected 1146 unique missing editors who have not edited in the year 2020 and 2569 active editors who are still active, and edit on different articles. The list of missing editors can be accessed [here](https://github.com/debajit15kgp/Missing-Active-Wikipedians/data/missing_editors.json) and active editors [here](https://github.com/debajit15kgp/Missing-Active-Wikipedians/data/active_editors.json)
+As mentioned in our work we have collected 1146 unique missing editors who have not edited in the year 2020 and 2569 active editors who are still active, and edit on different articles. The list of missing editors can be accessed [here](https://github.com/debajit15kgp/Missing-Active-Wikipedians/blob/main/data/missing_editors.json) and active editors [here](https://github.com/debajit15kgp/Missing-Active-Wikipedians/blob/main/data/active_editors.json)
 
 ## Feature Table Description
 ### Activity Features
