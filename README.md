@@ -39,7 +39,7 @@ As mentioned in our work we have collected 1146 unique missing editors who have 
             <td>F3</td>
         </tr>
         <tr>
-            <td>Administrative main pages- Wikipedia talk (namespace 5)</td>
+            <td>Administrative talk pages- Wikipedia talk (namespace 5)</td>
             <td>F4</td>
         </tr>
         <tr>
