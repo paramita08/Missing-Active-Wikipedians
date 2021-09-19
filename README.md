@@ -43,7 +43,7 @@ As mentioned in our work we have collected 1146 unique missing editors who have 
             <td>F4</td>
         </tr>
         <tr>
-            <td rowspan=2>Count of edits in major and minor categories</td>
+            <td rowspan=2>Count of edits in major and minor edit types</td>
             <td>major edits</td>
             <td>F5</td>
         </tr>
@@ -89,7 +89,7 @@ As mentioned in our work we have collected 1146 unique missing editors who have 
 - Distribution of different Empath categories
 - Sentence vector
 
-### Feature groups with Aliases
+### Feature groups and their aliases (used in classification)
 <table>
     <thead>
         <tr>
