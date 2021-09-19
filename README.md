@@ -13,11 +13,7 @@ As mentioned in our work we have collected 1146 unique missing editors who have 
 
 ## Feature Table Description
 ### Activity Features
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
+
 <h4 align="center">
 
 <table>
