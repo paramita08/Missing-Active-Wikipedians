@@ -1,6 +1,17 @@
 # When expertise gone missing: uncovering the loss of prolific contributors in Wikipedia
 
-The work accepted at ```ICADL,2021``` is contributed by Paramita Das, Bhanu Prakash Reddy, Debajit Chakraborty, Soumya Sarkar and Animesh Mukherjee.
+The work accepted at ```ICADL,2021``` is contributed by Paramita Das, Bhanu Prakash Reddy, Debajit Chakraborty, Soumya Sarkar and Animesh Mukherjee. 
+
+cite the work as follows-
+```@InProceedings{10.1007/978-3-030-91669-5_23,
+author="Das, Paramita and Guda, Bhanu Prakash Reddy and Chakraborty, Debajit and Sarkar, Soumya and Mukherjee, Animesh",
+title="When Expertise Gone Missing: Uncovering the Loss of Prolific Contributors in Wikipedia",
+booktitle="Towards Open and Trustworthy Digital Societies",
+year="2021",
+publisher="Springer International Publishing",
+pages="291--307"
+}
+```
 
 ## Overview 
 Success of planetary-scale online collaborative platforms such as Wikipedia is hinged on active and continued participation of its voluntary contributors. The phenomenal success of Wikipedia as a valued multilingual source of information is a testament to the possibilities of collective intelligence.
